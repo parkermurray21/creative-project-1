@@ -1,0 +1,11 @@
+.hotSpot-body{
+    background-image: url(img/kababs.jpg);
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+}
+
+.h1-hotSpot{
+    color: white;
+    
+}
