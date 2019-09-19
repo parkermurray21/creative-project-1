@@ -1,0 +1,15 @@
+.rt-body{
+    background-image: url(img/veggies_flickr.jpg);
+    background-size: cover;
+}
+
+.rev-body{
+    background-image: url(img/sandwich_flickr.jpg);
+    background-size: cover;
+}
+
+ul ul_nobullet{
+    list-style: none;
+    background-color: rgba(0,0,0,.75);
+    color: rgb(255,153,0); 
+}

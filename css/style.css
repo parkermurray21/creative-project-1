@@ -1,8 +1,6 @@
 .index-body{
     background-image: url(img/Sushi.jpg);
     background-size: cover;
-  
-    
 }
 
 .h1Main{
@@ -71,3 +69,19 @@ h2:after {
     margin-top: 10px;
 }
 
+/* for a footer*/
+.footer {
+  position: fixed;
+  bottom: 0px;
+  height: 3em;
+  width: 100%;
+  background-color: lightgrey !important;
+  color: black !important;
+  text-align: center;
+  
+}
+
+.footer a {
+    font-size: 13px;
+    color: gray;
+}
