@@ -85,3 +85,7 @@ h2:after {
     font-size: 13px;
     color: gray;
 }
+
+.bg-dark {
+    background-color: black !important;
+}
