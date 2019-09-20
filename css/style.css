@@ -1,6 +1,7 @@
 .index-body{
     background-image: url(img/Sushi.jpg);
     background-size: cover;
+    height: auto;
 }
 
 .h1Main{
@@ -11,9 +12,10 @@
     color: rgb(255, 153, 0);
     padding:10px;
     border-radius: 5px;
-    margin-top: 10px;
+    margin-top: 5%;
     margin-left: 5vw;
     margin-right: 5vw;
+    margin-bottom: 20px;
 }
 
 h2{
@@ -38,12 +40,13 @@ h2:after {
     border-radius: 5px;
     font-size: 150%;
     margin-left: 10vw;
-    margin-right: 10vw
+    margin-right: 10vw;
 }
 
 .new
 {
     background-color: lightgrey;
+    height:auto;
 }
 .newBox{
     border: 3px solid;
@@ -70,21 +73,20 @@ h2:after {
 }
 
 /* for a footer*/
-.footer {
-  position: fixed;
+footer {
   bottom: 0px;
-  height: 3em;
-  width: 100%;
-  background-color: lightgrey !important;
-  color: black !important;
+  height: auto;
+  width: 100vw;
+  background-color: black !important;
+  color: lightgrey !important;
   text-align: center;
   
 }
 
-.footer a {
-    font-size: 13px;
-    color: gray;
+footer a {
+    color: lightgrey !important;
 }
+
 
 .bg-dark {
     background-color: black !important;
